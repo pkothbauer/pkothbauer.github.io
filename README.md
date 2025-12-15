@@ -123,11 +123,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/pkothbauer
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/pkothbauer
+linkedin: https://www.linkedin.com/pkothbauer
+twitter: https://twitter.com/pkothbauer
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

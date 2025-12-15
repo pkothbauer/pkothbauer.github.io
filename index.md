@@ -3,20 +3,20 @@ layout: homepage
 ---
 
 ## About Me
+First-Year Undergraduate in Mathematics  
+University of Gothenburg  
+guskotpa[at]student[dot]gu[dot]se
 
-I am a Ph.D. student at ...
+## Artificial Intelligence in Mathematics
+My main interests are mathematics, computational linguistics, and artificial intelligence. 
+I develop scalable methods that advance the use of AI in mathematical discovery.
+I want to help create AI based tools which assist mathematicians in their daily research.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Open Source
+I'm a strong believer in open source software. My open source contributions span three interconnected directions:
+- Autoformalization and Automated Reasoning
+- Large Language Models and Agents
+- Reinforcement Learning
 
 {% include_relative _includes/publications.md %}
 
